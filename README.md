@@ -1,5 +1,5 @@
 # Awesome AI-Enhanced Virtual Reality in Medicine
-By Yixuan Wu (wyx chloe@zju.edu.cn) and kaiyuan Hu (kaiyuanhu@link.cuhk.edu.cn). We are continuously updating this page. Please do not hesitate to reach out to us with any questions or suggestions.
+By Yixuan Wu (wyx_chloe@zju.edu.cn) and Kaiyuan Hu (kaiyuanhu@link.cuhk.edu.cn). We are continuously updating this page. Please do not hesitate to reach out to us with any questions or suggestions.
 
 Please explore our survey paper presented in IJCAI 2024, Jeju, South Korea: [AI-Enhanced Virtual Reality in Medicine: A Comprehensive Survey] (https://www.ijcai.org/proceedings/2024/920)
 
