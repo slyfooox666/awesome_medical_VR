@@ -8,7 +8,7 @@ Please explore our survey paper presented in IJCAI 2024, Jeju, South Korea: **AI
 
 ![framework](./framework.png "Workflow of AI-Enhanced Virtual Reality in Medicine")
 
-
+# Taxonomy of current related work (continually updating)
 ## Visualization Enhancement
 
 ### Virtual Reconstruction 
