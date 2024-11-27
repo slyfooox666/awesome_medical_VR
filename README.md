@@ -41,7 +41,7 @@ Please explore our survey paper presented in IJCAI 2024, Jeju, South Korea: **AI
 - [Image-based Incision Detection for Topological Intraoperative 3D Model Update in Augmented Reality Assisted Laparoscopic Surgery] (https://miccai2021.org/openaccess/paperlinks/2021/09/01/231-Paper0847.html) [MICCAI 2021]
 - [Multi-task video enhancement for dental interventions] (https://conferences.miccai.org/2022/papers/345-Paper2559.html) [MICCAI 2022]
 
-//TODO
+
 
 ## VR-related Medical Data Analysis
 
